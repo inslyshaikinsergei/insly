@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/insly.iml" filepath="$PROJECT_DIR$/insly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insly_main.iml" filepath="$PROJECT_DIR$/.idea/modules/insly_main.iml" group="insly" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insly_test.iml" filepath="$PROJECT_DIR$/.idea/modules/insly_test.iml" group="insly" />
+    </modules>
+  </component>
+</project>
